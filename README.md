@@ -1,4 +1,4 @@
-# CourseProject
+# Sentiment Analysis of Yelp Reviews
 
 Presentation Video and Slides located in the following Google Drive Link:
 
